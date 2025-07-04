@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+streamlit==1.31.0
+cvzone==1.6.1
+Pillow==10.1.0
+mediapipe==0.10.9
+tensorflow==2.15.0
+gtts
